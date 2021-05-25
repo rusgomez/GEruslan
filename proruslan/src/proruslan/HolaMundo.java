@@ -2,11 +2,7 @@ package proruslan;
 
 public class HolaMundo {
 	
-	int restar (int a, int b) {
-		
-		return a - b;
-		
-	}
+	
 
 	int sumar (int a ,int b) {
 		
