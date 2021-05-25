@@ -2,9 +2,9 @@ package proruslan;
 
 public class HolaMundo {
 	
-	int restar (int a, int b) {
+	int multiplicar (int a, int b) {
 		
-		return a - b;
+		return a * b;
 		
 	}
 
